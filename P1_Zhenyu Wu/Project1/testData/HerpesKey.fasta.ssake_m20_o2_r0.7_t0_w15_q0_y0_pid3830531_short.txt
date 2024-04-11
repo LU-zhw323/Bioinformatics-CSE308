@@ -1,0 +1,1 @@
+ACCCCGGGAGAGG	Input sequence shorter than minimum read length allowed (13 < 21 nt)

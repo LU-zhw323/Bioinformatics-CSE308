@@ -1,0 +1,35 @@
+
+   5 Populations
+
+Neighbor-Joining/UPGMA method version 3.695
+
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +3MXE_B|PDB
+  ! 
+  !   +---3PJ6_A|PDB
+  2---3 
+  !   !                                                    +3QIN_A|PDB
+  !   +----------------------------------------------------1 
+  !                                                        +3QIO_A|PDB
+  ! 
+  +3MXE_A|PDB
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   2          3MXE_B|PDB      0.00000
+   2             3            0.07000
+   3          3PJ6_A|PDB      0.07000
+   3             1            0.88000
+   1          3QIN_A|PDB      0.00000
+   1          3QIO_A|PDB      0.00000
+   2          3MXE_A|PDB      0.00000
+
+

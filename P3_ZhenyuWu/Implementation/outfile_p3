@@ -1,0 +1,25 @@
+ 
+<NEIGHBOR JOINING TREE>
+(3, 'BBBBBB', 'DDDDDD', (2, 'AAAAAA', (1, 'CCCCCC', 'EEEEEE')))
+ 
+<TREE TOPOLOGY>
+            +---EEEEEE
+        +---1
+       |    +---CCCCCC
+    +---2
+   |    +---AAAAAA
+____3
+    +---BBBBBB
+|
+|
+|
++--- DDDDDD
+ 
+<LENGTH OF EDGE>
+1 to CCCCCC : 0.06
+1 to EEEEEE : 0.15999999999999998
+2 to AAAAAA : 0.08000000000000003
+2 to 1 : 0.030000000000000013
+3 to BBBBBB : 0.1375
+3 to DDDDDD : 0.1325
+3 to 2 : 0.014999999999999958
